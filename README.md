@@ -1,5 +1,7 @@
 # Winchester DB Update Tool
 
+![GIS Toolbox Updating SQL Database](./GISTool.png)
+
 This tool automates the transfer of feature datasets from a source SQL Server environment to a staging SQL Server environment, ensuring data consistency between environments. This script uses the ArcGIS Python API and `arcpy` to handle geospatial data management tasks effectively.
 
 ## Table of Contents
